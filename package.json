@@ -1,0 +1,28 @@
+{
+  "name": "rgbgame",
+  "version": "0.0.1",
+  "description": "Color guessing game",
+  "main": "js/index.js",
+  "dependencies": {
+    "electron": "^5.0.8"
+  },
+  "devDependencies": {
+    "electron-builder": "^21.1.5",
+    "electron-window-state": "^5.0.3",
+    "install": "^0.13.0",
+    "npm": "^6.10.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromeymathews/rgbgame.git"
+  },
+  "author": "Jeromey Mathews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeromeymathews/rgbgame/issues"
+  },
+  "homepage": "https://github.com/jeromeymathews/rgbgame#readme"
+}
